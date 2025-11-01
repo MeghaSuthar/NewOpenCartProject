@@ -1,2 +1,2 @@
 This is my test file.
-Adding additonal comment to pull the changes to my local branch.
+Adding additional comment to pull the changes to my local branch.
